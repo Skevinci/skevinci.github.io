@@ -8,51 +8,112 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there! This is Sikai Li 李思楷. You can call me Sky or Skevin. I am currently a research assistant at University of Pennsylvania working with [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), and was a research assistant at the University of Michigan working with [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/) and [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/). Before that, I received my B.S. in Computer Science from University of Michigan under the supervision of [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interest lies at the intersection of robotics and AI, and the goal is to ground robots in the real world.
+- Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
+- Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, reinforcement learning, online learning
 
+🔥 <span style="color:orange;"><b>I am applying for 2025 Fall PhD position.</b></span>
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
+
+# 📃 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICRA 2025</div><img src='images/arch.png' alt="arch" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592)
+
+**Sikai Li**, Samanta Rodriguez, Yiming Dou, Andrew Owens, Nima Fazeli
+
+\[[**Paper**](https://arxiv.org/abs/2409.14592)] \[[**Project**](https://www.mmintlab.com/tactile-functasets/)] \[[**Code**](https://github.com/MMintLab/tactile_functasets) ]
+  - Rather than directly using raw tactile images, we propose neural implicit functions trained to reconstruct the tactile dataset, producing compact representations that capture the underlying structure of the sensory inputs. 
+</div>
+</div>
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_2024.png' alt="icra 2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/pdf/2310.07968)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yinpei Dai, Run Peng, **Sikai Li**, Joyce Chai
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+\[[**Paper**](https://arxiv.org/pdf/2310.07968)\] \[[**Video**](https://www.youtube.com/watch?v=rN5S8QIhhQc&ab_channel=UMichSLEDLab)\]  \[[**Code**](https://github.com/sled-group/navchat)\]
+  - We propose a new framework termed Open-woRld Interactive persOnalized Navigation (ORION), which uses Large Language Models to make sequential decisions to manipulate different modules for perception, navigation and communication.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMECE 2023</div><img src='images/imece_2023.png' alt="imece 2023" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+[An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2023/87608/V003T03A079/1195595)
+
+Qi Zhou, **Sikai Li**, Jingbo Qu, Jin Wu, Haomiao Xu, Youyi Bi
+
+\[[**Paper**](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2023/87608/V003T03A079/1195595)\]
+  - We propose an adaptive path planning approach for robot arm based on Inverse Kinematics and Deep Reinforcement Learning in a pick-and-place context.
+</div>
+</div>
+
+# 📑 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS Late Breaking Results 2023 </div><img src='images/iros_2023.png' alt="iros 2023" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring LLM in Intention Modeling for Human-Robot Collaboration](https://drive.google.com/file/d/1aFDgzGns9qVebKUwHLnvoh9F0rT4H31p/view?usp=sharing)
+
+**Sikai Li**, Run Peng, Yinpei Dai, Jenny Lee, Joyce Chai
+\[[**Paper**](https://drive.google.com/file/d/1aFDgzGns9qVebKUwHLnvoh9F0rT4H31p/view?usp=sharing)\]
+  - We take an initial step towards Theory of Mind modeling powered by large language models GPT-4 in human-robot communication and collaboration.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Vision Course Project</div><img src='images/442.png' alt="iros 2023" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Image Generation for Open-World Object Rearrangement](https://drive.google.com/file/d/1tGhGwfF8SYHSOkJ2Vs6ESeEaP2olnFVs/view?usp=sharing)
+
+**Sikai Li**, Haohong Shang
+\[[**Paper**](https://drive.google.com/file/d/1tGhGwfF8SYHSOkJ2Vs6ESeEaP2olnFVs/view?usp=sharing)\]
+  - Inspired by DALL-E-Bot, we reimplement the vision part of its pipeline and present a improved framework that takes an initial observation image as input and outputs an image with same objects but in a natural and human-like layout.
+</div>
+</div>
+
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08 - 2024.08*, BSE in Computer Science & Engineering, University of Michigan.
+- *2020.09 - 2025.08*, BSE in Electrical & Computer Engineering, Shanghai Jiao Tong University.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships & Research Experience
+- *2024.09 - Now*, Cognitive Computation Group, University of Pennsylvania. Advised by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), mentored by [Siyi Liu](https://liusiyi641.github.io/).
+- *2024.05 - 2024.09*, Fluent Robotics Lab, University of Michigan. Advised by [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/).
+- *2024.05 - 2024.09*, MMint Lab, University of Michigan. Advised by [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
+- *2023.05 - 2024.07*, SLED Lab, University of Michigan. Advised by [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/), mentored by [Ziqiao Ma](https://mars-tin.github.io/) and [Yinpei Dai](https://yinpeidai.github.io/).
+- *2021.11 - 2023.02*, DIDIS Lab, Shanghai Jiao Tong University. Advised by [Prof. Youyi Bi](https://sites.ji.sjtu.edu.cn/youyibi/people/).
+- *2022.06 - 2022.09*, Research and Development Center of Southwest Securities Co., LTD, Shanghai, China.
+
+# 🔥 Hobbies
+- Travel: I love road trip🚗 and national parks, especially the wildlife🐻. I've been to 17/63 NPs in the United States. Recommend Rainier NP and Bryce Canyon NP!
+- Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
+- Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
+- Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
+
+<div style="text-align: center;">
+  <span style="color:black;">Last updated: December 2024</span>
+</div>
