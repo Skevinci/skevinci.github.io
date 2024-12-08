@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sikai Li"
-  avatar           : "images/self_avatar.jpg"
-  bio              : "University of Michigan"
-  location         : "Ann Arbor, MI"
+  avatar           : "images/self_avatar-1536x1536.jpg"
+  bio              : "University of Pennsylvania"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QCicMjMAAAAJ&hl=en"
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Skevicni" # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "skevin_li"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
