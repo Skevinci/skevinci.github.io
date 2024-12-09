@@ -100,7 +100,7 @@ Qi Zhou, **Sikai Li**, Jingbo Qu, Jin Wu, Haomiao Xu, Youyi Bi
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships & Research Experience
+# 💻 Internships and Research Experience
 - *2024.09 - Now*, Cognitive Computation Group, University of Pennsylvania. Advised by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), mentored by [Siyi Liu](https://liusiyi641.github.io/).
 - *2024.05 - 2024.09*, Fluent Robotics Lab, University of Michigan. Advised by [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/).
 - *2024.05 - 2024.09*, MMint Lab, University of Michigan. Advised by [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
