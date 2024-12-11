@@ -63,6 +63,18 @@ Qi Zhou, **Sikai Li**, Jingbo Qu, Jin Wu, Haomiao Xu, Youyi Bi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Science and Engineering</div><img src='images/journal_2024.png' alt="journal 2024" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Adaptive Robot Motion Planning for Smart Manufacturing Based on Digital Twin and Bayesian Optimization-Enhanced Reinforcement Learning
+
+Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
+
+[**Paper link coming soon**]
+
+</div>
+</div>
+
 # 📑 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS Late Breaking Results 2023 </div><img src='images/iros_2023.png' alt="iros 2023" width="100%"></div></div>
