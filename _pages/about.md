@@ -66,12 +66,12 @@ Qi Zhou, **Sikai Li**, Jingbo Qu, Jin Wu, Haomiao Xu, Youyi Bi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Science and Engineering</div><img src='images/journal_2024.png' alt="journal 2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Adaptive Robot Motion Planning for Smart Manufacturing Based on Digital Twin and Bayesian Optimization-Enhanced Reinforcement Learning
+[Adaptive Robot Motion Planning for Smart Manufacturing Based on Digital Twin and Bayesian Optimization-Enhanced Reinforcement Learning](https://www.novatechsetproofs.com/authors/ASME/MANU-24-1544.pdf)
 
 Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 
-[**Paper link coming soon**]
-
+\[[**Paper**](https://www.novatechsetproofs.com/authors/ASME/MANU-24-1544.pdf)\]
+  - An adaptive robot motion planning approach is proposed based on digital twin and reinforcement learning. The core idea is to adaptively select geometry-based or RL-based methods for robot motion planning through a real-time distance detection mechanism, which can reduce the complexity of RL model training and accelerate the training process.
 </div>
 </div>
 
