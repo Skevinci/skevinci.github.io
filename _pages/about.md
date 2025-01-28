@@ -118,7 +118,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2022.06 - 2022.09*, Research and Development Center of Southwest Securities Co., LTD, Shanghai, China.
 
 # 🔥 Hobbies
-- Travel: I love road trip🚗 and national parks, especially the wildlife🐻. I've been to 17/63 NPs in the United States. Recommend Rainier NP and Bryce Canyon NP!
+- Travel: I love road trip🚗 and national parks, especially the wildlife🐻. I've been to 22/63 NPs in the United States. Recommend Rainier NP and Bryce Canyon NP!
 - Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
 - Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
