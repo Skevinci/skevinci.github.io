@@ -102,7 +102,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.08 - 2024.08*, BSE in Computer Science & Engineering, University of Michigan.
+- *2022.08 - 2024.05*, BSE in Computer Science & Engineering, University of Michigan.
 - *2020.09 - 2025.08*, BSE in Electrical & Computer Engineering, Shanghai Jiao Tong University.
 
 <!-- # 💬 Invited Talks
