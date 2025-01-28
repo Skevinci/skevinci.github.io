@@ -16,15 +16,15 @@ My primary research interest lies at the intersection of robotics and AI, and th
 - Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
 - Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, reinforcement learning, online learning
 
-🔥 <span style="color:orange;"><b>I am applying for 2025 Fall PhD position.</b></span>
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
+# 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICRA 2025.
 
 # 📃 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission to ICRA 2025</div><img src='images/arch.png' alt="arch" width="100%"></div></div>
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/arch.png' alt="arch" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592)
@@ -35,9 +35,6 @@ My primary research interest lies at the intersection of robotics and AI, and th
   - Rather than directly using raw tactile images, we propose neural implicit functions trained to reconstruct the tactile dataset, producing compact representations that capture the underlying structure of the sensory inputs. 
 </div>
 </div>
-
-
-# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_2024.png' alt="icra 2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
