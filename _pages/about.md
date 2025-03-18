@@ -124,5 +124,5 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
 
 <div style="text-align: center;">
-  <span style="color:black;">Last updated: December 2024</span>
+  <span style="color:black;">Last updated: March 2025</span>
 </div>

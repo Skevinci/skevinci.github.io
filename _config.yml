@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sikai Li"
-  avatar           : "images/self_avatar-1536x1536.jpg"
+  avatar           : "images/self_avatar-square.jpg"
   bio              : "University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         :
