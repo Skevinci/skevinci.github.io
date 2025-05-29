@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! This is Sikai Li 李思楷. You can call me Sky or Skevin. I am currently a research assistant at University of Pennsylvania working with [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), and was a research assistant at the University of Michigan working with [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/) and [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/). Before that, I received my B.S. in Computer Science from University of Michigan under the supervision of [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
-My primary research interest lies at the intersection of robotics and AI, and the goal is to ground robots in the real world.
+My primary research interest lies at the intersection of robotics and learning methods, and the goal is to ground robots in the real world.
 - Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
 - Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, reinforcement learning, online learning
 
