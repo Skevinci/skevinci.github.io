@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! This is Sikai Li 李思楷. You can call me Sky or Skevin. I am currently an incoming CS Ph.D. student at the University of North Carolina at Chapel Hill, advised by [Prof. Mingyu Ding](https://dingmyu.github.io/). Previously, I was a research assistant working with [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/) and [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/). Before that, I received my B.S. in Computer Science from University of Michigan under the supervision of [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
+Hi there! This is Sikai Li 李思楷. You can call me Sky or Skevin. I am currently an incoming CS Ph.D. student at the University of North Carolina at Chapel Hill, advised by [Prof. Mingyu Ding](https://dingmyu.github.io/). Previously, I worked as a research assistant with [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/) at the University of Pennsylvania, and with [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/) and [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) at the University of Michigan. Before that, I received my B.S. in Computer Science from University of Michigan under the supervision of [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
 My primary research interest lies at the intersection of robotics and learning methods, and the goal is to ground robots in the real world.
 - Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, reinforcement learning, online learning
