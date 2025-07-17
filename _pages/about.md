@@ -102,6 +102,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
+- *2025.08 - Now*, Ph.D. in Computer Science, University of North Carolina at Chapel Hill.
 - *2022.08 - 2024.05*, BSE in Computer Science & Engineering, University of Michigan.
 - *2020.09 - 2025.08*, BSE in Electrical & Computer Engineering, Shanghai Jiao Tong University.
 
@@ -110,7 +111,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships and Research Experience
-- *2024.09 - Now*, Cognitive Computation Group, University of Pennsylvania. Advised by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), mentored by [Siyi Liu](https://liusiyi641.github.io/).
+- *2024.09 - 2025.06*, Cognitive Computation Group, University of Pennsylvania. Advised by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), mentored by [Siyi Liu](https://liusiyi641.github.io/).
 - *2024.05 - 2024.09*, Fluent Robotics Lab, University of Michigan. Advised by [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/).
 - *2024.05 - 2024.09*, MMint Lab, University of Michigan. Advised by [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
 - *2023.05 - 2024.07*, SLED Lab, University of Michigan. Advised by [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/), mentored by [Ziqiao Ma](https://mars-tin.github.io/) and [Yinpei Dai](https://yinpeidai.github.io/).

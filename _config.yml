@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sikai Li"
-description              : "Research Assistant"
+description              : "Ph.D. Student"
 repository               : "Skevinci/skevinci.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sikai Li"
   avatar           : "images/self_avatar-square.jpg"
-  bio              : "University of Pennsylvania"
-  location         : "Philadelphia, PA"
+  bio              : "UNC - Chapel Hill"
+  location         : "Chapel Hill, NC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QCicMjMAAAAJ&hl=en"
