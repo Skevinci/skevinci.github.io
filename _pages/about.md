@@ -123,11 +123,11 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Conference Reviewer for IROS
 
 # 🔥 Hobbies
-- Travel: I love road trip🚗 and national parks, especially the wildlife🐻. I've been to 27/63 NPs in the United States. Recommend Rainier NP and Bryce Canyon NP!
+- Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 27/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
 - Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
 - Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
-
+- Foods: I admire the Canton-style cuisine. 
 <div style="text-align: center;">
   <span style="color:black;">Last updated: August 2025</span>
 </div>
