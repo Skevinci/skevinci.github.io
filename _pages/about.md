@@ -128,6 +128,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
 - Foods: I admire the Canton-style cuisine. 
+- Photography: Shoots for birds and stars and women.
 <div style="text-align: center;">
   <span style="color:black;">Last updated: August 2025</span>
 </div>
