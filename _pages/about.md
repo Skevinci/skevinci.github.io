@@ -10,10 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! This is Sikai Li 李思楷. You can call me Sky or Skevin. I am currently an incoming CS Ph.D. student at the University of North Carolina at Chapel Hill, advised by [Prof. Mingyu Ding](https://dingmyu.github.io/). Previously, I worked as a research assistant with [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/) at the University of Pennsylvania, and with [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/) and [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) at the University of Michigan. Before that, I received my B.S. in Computer Science from University of Michigan under the supervision of [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
+Hi there! This is Sikai Li 李思楷. You can call me Sky or Skevin. I am currently a CS Ph.D. student at the University of North Carolina at Chapel Hill, advised by [Prof. Mingyu Ding](https://dingmyu.github.io/). Previously, I worked as a research assistant with [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/) at the University of Pennsylvania, and with [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/) and [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) at the University of Michigan. Before that, I received my B.S. in Computer Science from University of Michigan under the supervision of [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
 My primary research interest lies at the intersection of robotics and learning methods, and the goal is to ground robots in the real world.
-- Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, reinforcement learning, online learning
+- Humanoid: Reinforcement learning, motion tracking, sim2real
+- Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, online learning
 - Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
 
 # 🔥 News
@@ -122,11 +123,11 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Conference Reviewer for IROS
 
 # 🔥 Hobbies
-- Travel: I love road trip🚗 and national parks, especially the wildlife🐻. I've been to 22/63 NPs in the United States. Recommend Rainier NP and Bryce Canyon NP!
+- Travel: I love road trip🚗 and national parks, especially the wildlife🐻. I've been to 27/63 NPs in the United States. Recommend Rainier NP and Bryce Canyon NP!
 - Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
 - Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
 
 <div style="text-align: center;">
-  <span style="color:black;">Last updated: July 2025</span>
+  <span style="color:black;">Last updated: August 2025</span>
 </div>
