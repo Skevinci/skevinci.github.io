@@ -127,8 +127,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
 - Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
-- Foods: I admire the Canton-style cuisine. 
-- Photography: Shoots for birds and stars and women.
+- Foods: I admire the Canton-style cuisine.
 <div style="text-align: center;">
   <span style="color:black;">Last updated: August 2025</span>
 </div>
