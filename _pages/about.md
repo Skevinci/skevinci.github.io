@@ -37,6 +37,18 @@ My primary research interest lies at the intersection of robotics and learning m
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MAS @ ICML 2025</div><img src='images/game_intro.png' alt="game" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry](https://arxiv.org/abs/2510.25595)
+
+Run Peng*, Ziqiao Ma*, Amy Pang, **Sikai Li**, Zhang Xi-Jia, Yingzhuo Yu, Cristian-Paul Bara, Joyce Chai
+
+\[[**Paper**](https://arxiv.org/abs/2510.25595)] \[[**Project**](https://github.com/Roihn/EinsteinPuzzles)] \[[**Code**](https://github.com/Roihn/EinsteinPuzzles) ]
+  - We study LLM agents in task collaboration, particularly under the condition of information asymmetry, where agents have disparities in their knowledge and skills and need to work together to complete a shared task.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_2024.png' alt="icra 2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
