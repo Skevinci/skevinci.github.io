@@ -42,7 +42,7 @@ My primary research interest lies at the intersection of robotics and learning m
 
 [Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry](https://arxiv.org/abs/2510.25595)
 
-Run Peng*, Ziqiao Ma*, Amy Pang, **Sikai Li**, Zhang Xi-Jia, Yingzhuo Yu, Cristian-Paul Bara, Joyce Chai
+Run Peng\*, Ziqiao Ma\*, Amy Pang, **Sikai Li**, Zhang Xi-Jia, Yingzhuo Yu, Cristian-Paul Bara, Joyce Chai
 
 \[[**Paper**](https://arxiv.org/abs/2510.25595)] \[[**Project**](https://github.com/Roihn/EinsteinPuzzles)] \[[**Code**](https://github.com/Roihn/EinsteinPuzzles) ]
   - We study LLM agents in task collaboration, particularly under the condition of information asymmetry, where agents have disparities in their knowledge and skills and need to work together to complete a shared task.
@@ -141,7 +141,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
 - Foods: I admire the Canton-style cuisine.
 <div style="text-align: center;">
-  <span style="color:black;">Last updated: August 2025</span>
+  <span style="color:black;">Last updated: November 2025</span>
 </div>
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6NscyjfbvGgi_XufLZfweEjsTUOdR1aHobXgMCKDJTs&cl=ffffff&w=a"></script>
