@@ -132,7 +132,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2022.06 - 2022.09*, Research and Development Center of Southwest Securities Co., LTD, Shanghai, China.
 
 # 👔 Service
-- Conference Reviewer for IROS
+- Conference Reviewer for IROS, ICRA, WACV
 
 # 🔥 Hobbies
 - Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 27/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
