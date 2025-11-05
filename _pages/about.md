@@ -17,7 +17,9 @@ My primary research interest lies at the intersection of robotics and learning m
 - Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, online learning
 - Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
 
-# 🔥 News
+# 🔥 New
+- *2025.08*: &nbsp;🎉🎉 I will work with Professor [Mingyu Ding](https://dingmyu.github.io/) at UNC - Chapel Hill as a Ph.D. student!
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 MAS Workshop.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICRA 2025.
 
 <!-- # 📃 Preprints -->
