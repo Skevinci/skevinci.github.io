@@ -27,6 +27,18 @@ My primary research interest lies at the intersection of robotics and learning m
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/icra_2026.png' alt="icra_2026" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design](https://arxiv.org/abs/2603.13098)
+
+Ruogu Li, **Sikai Li**, Yao Mu, Mingyu Ding
+
+\[[**Paper**](https://arxiv.org/abs/2603.13098)]
+  - We introduce SldprtNet, a large-scale dataset comprising over 242,000 industrial parts, designed for semanticdriven CAD modeling, geometric deep learning, and the training/fine-tuning of multimodal models for 3D design.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/arch.png' alt="arch" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -126,6 +138,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships and Research Experience
+- *2026.05 - Now*, Genesis AI.
 - *2024.09 - 2025.06*, Cognitive Computation Group, University of Pennsylvania. Advised by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), mentored by [Siyi Liu](https://liusiyi641.github.io/).
 - *2024.05 - 2024.09*, Fluent Robotics Lab, University of Michigan. Advised by [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/).
 - *2024.05 - 2024.09*, MMint Lab, University of Michigan. Advised by [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
@@ -134,16 +147,14 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2022.06 - 2022.09*, Research and Development Center of Southwest Securities Co., LTD, Shanghai, China.
 
 # 👔 Service
-- Conference Reviewer for IROS, ICRA, WACV
+- Conference Reviewer for IROS, ICRA, WACV, ECCV, CoRL
 
 # 🔥 Hobbies
-- Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 27/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
+- Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 29/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
 - Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
 - Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
 - Foods: I admire the Canton-style cuisine.
 <div style="text-align: center;">
-  <span style="color:black;">Last updated: November 2025</span>
+  <span style="color:black;">Last updated: May 2026</span>
 </div>
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6NscyjfbvGgi_XufLZfweEjsTUOdR1aHobXgMCKDJTs&cl=ffffff&w=a"></script>
