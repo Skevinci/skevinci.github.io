@@ -17,7 +17,8 @@ My primary research interest lies at the intersection of robotics and learning m
 - Learning from Interactions with Environments and Humans: Robot Learning, robot manipulation, task planning, online learning
 - Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
 
-# 🔥 New
+# 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I will work with [Zhenjia Xu](https://zhenjiaxu.com/) at Genesis AI as an intern!
 - *2025.08*: &nbsp;🎉🎉 I will work with Professor [Mingyu Ding](https://dingmyu.github.io/) at UNC - Chapel Hill as a Ph.D. student!
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 MAS Workshop.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICRA 2025.
@@ -138,7 +139,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships and Research Experience
-- *2026.05 - Now*, Genesis AI.
+- *2026.05 - Now*, Genesis AI. Mentored by [Zhenjia Xu](https://zhenjiaxu.com/).
 - *2024.09 - 2025.06*, Cognitive Computation Group, University of Pennsylvania. Advised by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/), mentored by [Siyi Liu](https://liusiyi641.github.io/).
 - *2024.05 - 2024.09*, Fluent Robotics Lab, University of Michigan. Advised by [Prof. Christoforos Mavrogiannis](https://chrismavrogiannis.com/).
 - *2024.05 - 2024.09*, MMint Lab, University of Michigan. Advised by [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
