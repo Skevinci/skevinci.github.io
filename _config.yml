@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sikai Li"
-description              : "Sikai Li (李思楷) is a Computer Science Ph.D. student at UNC-Chapel Hill, working on robotics and machine learning. Personal homepage with research, publications, and news."
+description              : "Ph.D. Student"
 url                      : "https://skevinci.github.io"
 repository               : "Skevinci/skevinci.github.io"
 google_scholar_stats_use_cdn : false
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QCicMjMAAAAJ&hl=en"
-  email            : "skevinci@umich.edu"
+  email            : "sikaili@cs.unc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
