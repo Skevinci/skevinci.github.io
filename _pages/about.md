@@ -18,7 +18,7 @@ My primary research interest lies at the intersection of robotics and learning m
 - Foundation models: commonsense reasoning, open-vocabulary object detection, supervised fine-tuning & DPO
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 I will work with [Zhenjia Xu](https://zhenjiaxu.com/) at Genesis AI as an intern!
+- *2026.05*: &nbsp;🎉🎉 I will work with [Zhenjia Xu](https://zhenjiaxu.com/) at [Genesis AI](https://www.genesis.ai/) as an intern!
 - *2025.08*: &nbsp;🎉🎉 I will work with Professor [Mingyu Ding](https://dingmyu.github.io/) at UNC - Chapel Hill as a Ph.D. student!
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 MAS Workshop.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICRA 2025.
@@ -149,6 +149,7 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 
 # 👔 Service
 - Conference Reviewer for IROS, ICRA, WACV, ECCV, CoRL
+- Teaching Assistant for COMP 790-192 Embodied and Agentic AI, UNC Spring 2026
 
 # 🔥 Hobbies
 - Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 29/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
