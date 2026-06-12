@@ -1,0 +1,9 @@
+# Local processing scripts — not part of the published site
+/tools/
+
+# Compressed-video output from tools/compress_videos.ps1
+/static/videos/compressed/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
