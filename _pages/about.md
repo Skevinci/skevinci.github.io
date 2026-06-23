@@ -34,7 +34,7 @@ My primary research interest lies at the intersection of robotics and learning m
 
 **Sikai Li**, Shuning Li, Zhenyu Wei, Yunchao Yao, Chenran Li, Mingyu Ding
 
-\[[**Paper**](https://arxiv.org/abs/2606.23680)] \[[**Project**](https://skevinci.github.io/coordex/)] \[[**Code**](https://github.com/Skevinci/CoorDex) ]
+\[[**Paper**](https://arxiv.org/abs/2606.23680)] \[[**Project**](https://skevinci.github.io/coordex/)] \[[**Code**](https://github.com/Skevinci/CoorDex)]
   - We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco-manipulation on the move.
 </div>
 </div>
