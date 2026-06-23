@@ -27,7 +27,7 @@ My primary research interest lies at the intersection of robotics and learning m
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='coordex/static/images/Method_final.svg' alt="coordex" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='coordex/static/images/CoorDex_teaser_v1.png' alt="coordex" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680)
