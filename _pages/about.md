@@ -27,6 +27,17 @@ My primary research interest lies at the intersection of robotics and learning m
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='coordex/static/images/Method_final.svg' alt="coordex" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680)
+
+**Sikai Li**, Shuning Li, Zhenyu Wei, Yunchao Yao, Chenran Li, Mingyu Ding
+
+\[[**Paper**](https://arxiv.org/abs/2606.23680)] \[[**Project**](https://skevinci.github.io/coordex/)] \[[**Code**](https://github.com/Skevinci/CoorDex) ]
+  - We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco-manipulation on the move.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/icra_2026.png' alt="icra_2026" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -152,11 +163,10 @@ Qi Zhou, Jin Wu, Boyan Li, **Sikai Li**, Bohan Feng, Jiangshan Liu, Youyi Bi
 - Teaching Assistant for COMP 790-192 Embodied and Agentic AI, UNC Spring 2026
 
 # 🔥 Hobbies
-- Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 29/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
-- Music: I like to play the piano (ABRSM Grade 8), the saxophone🎷 and the guitar🎸.
-- Sports: Love soccer (Liverpool🔴🐔), volleyball and badminton.
+- Travel: I love road trip🚗 and National Parks, especially the wildlife🐻. I've been to 32/63 National Parks in the United States. Recommend Mt. Rainier and Bryce Canyon!
+- Sports: Love soccer (Liverpool🔴🐔).
 - Gaming: League of Legends➡️Apex Legends (Master in season 17 ^^)➡️Valorant (Ascendant💚 in EPISODE 7: ACT 3)
 - Foods: I admire the Canton-style cuisine.
 <div style="text-align: center;">
-  <span style="color:black;">Last updated: May 2026</span>
+  <span style="color:black;">Last updated: June 2026</span>
 </div>
