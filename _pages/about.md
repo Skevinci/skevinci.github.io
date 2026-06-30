@@ -39,6 +39,18 @@ My primary research interest lies at the intersection of robotics and learning m
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/anybody.png' alt="anybody" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AnyBody: Free-Form Whole-Body Humanoid Control from Arbitrary Keypoint Guidance](https://arxiv.org/abs/2606.29209)
+
+Shuning Li, **Sikai Li**, Jiachen Li, Mingyu Ding
+
+\[[**Paper**](https://arxiv.org/abs/2606.29209)] \[[**Project**](https://hazel-hammer.github.io/anybody-project-page/)] \[[**Code**](https://github.com/hazel-hammer/Anybody)]
+  - We present AnyBody, a unified whole-body humanoid controller driven by an arbitrary subset of body keypoints chosen at deploy time.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/icra_2026.png' alt="icra_2026" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
