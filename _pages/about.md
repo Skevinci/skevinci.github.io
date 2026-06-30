@@ -51,6 +51,18 @@ Shuning Li, **Sikai Li**, Jiachen Li, Mingyu Ding
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/dexcompose.png' alt="dexcompose" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](https://arxiv.org/abs/2606.28323)
+
+Dihong Huang, Zhenyu Wei, Zhuxiu Xu, Yunchao Yao, **Sikai Li**, Mingyu Ding
+
+\[[**Paper**](https://arxiv.org/abs/2606.28323)] \[[**Project**](https://devon018.github.io/DexCompose-Webpage/)] \[[**Code**](https://github.com/Devon018/DexCompose)]
+  - We propose DexCompose, a role-aware residual composition framework that reuses pretrained dexterous policies for multi-task manipulation through explicit finger-level action ownership.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/icra_2026.png' alt="icra_2026" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
